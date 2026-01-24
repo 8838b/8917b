@@ -26,7 +26,7 @@ brain  Brain;
 
 motor RM = motor(PORT13, ratio6_1, false);
 motor RF = motor(PORT14, ratio6_1, false);
-motor RB = motor(PORT2, ratio6_1, true);
+motor RB = motor(PORT9, ratio6_1, true);
 
 motor LF = motor(PORT16, ratio6_1, false);
 motor LM = motor(PORT17, ratio6_1, true);
